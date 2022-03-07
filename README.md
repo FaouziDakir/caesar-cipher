@@ -1,6 +1,6 @@
 # caesar-cipher
 
-This repo is used by a Jenkins pipeline (Junit tests)
+This repo is used by a Jenkins pipeline (Junit tests). Cf Jenkinsfile
 
 docker-compose.yml for Jenkins :
 
